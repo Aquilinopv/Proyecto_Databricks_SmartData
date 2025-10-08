@@ -17,7 +17,23 @@ Tambien se desarrollaron los siguintes Notebooks en Databricks
 * Notebooks de Ingesta.
 * Notebooks de Transformacion.
 * Notebooks de Carga.
+
+## 📦 Repositorio-Proyecto
+├── .github/
+│   └── workflows
+│       └── script3.yml
+├── proceso/
+│   └── DDLs Medallion.sql
+│   └── Ingest.py
+│   └── Transform.py
+│   └── Load.py
+├── reversion
+│   └── Drop_Tables.sql
+│   └── Revoke.sql
+├── seguridad
+│   └── Grants.sql
+
+
+Los paso a seguir para el desarrollo de esta arcuitectura es la siguiente.
   
-  Los paso a seguir para el desarrollo de esta arcuitectura es la siguiente.
-  
-  [📄 Descargar Manual del paso a paso](Proyecto_Final.docx)
+[📄 Descargar Manual del paso a paso](Proyecto_Final.docx)
