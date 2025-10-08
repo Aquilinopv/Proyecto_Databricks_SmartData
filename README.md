@@ -37,3 +37,12 @@ Tambien se desarrollaron los siguintes Notebooks en Databricks
 Los paso a seguir para el desarrollo de esta arcuitectura es la siguiente.
   
 [📄 Descargar Manual del paso a paso](Proyecto_Final.docx)
+
+
+📦 tu-repositorio
+├── images/
+│   └── logo.png
+├── src/
+│   └── main.py
+├── README.md
+└── requirements.txt
