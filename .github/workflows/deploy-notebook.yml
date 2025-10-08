@@ -181,7 +181,7 @@ jobs:
                   "task_key": "Transform"
                 }
               ]
-            },
+            }
           ],
           "schedule": {
             "quartz_cron_expression": "0 0 8 * * ?",
