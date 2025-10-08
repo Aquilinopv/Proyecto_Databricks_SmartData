@@ -3,4 +3,4 @@ Repositorio que contiene el proyecto de Ingenieria de Datos con Databricks de Sm
 
 ![Imagen no disponible](Arquitectura_proyecto.png)
 
-<img src="Arquitectura_proyecto.png" alt="Logo" width="200"/>
+<img src="Arquitectura_proyecto.png" alt="Logo" width="500"/>
