@@ -27,10 +27,10 @@ Tambien se desarrollaron los siguintes Notebooks en Databricks
 │   └── Ingest.py
 │   └── Transform.py
 │   └── Load.py
-├── reversion
+├── reversion/
 │   └── Drop_Tables.sql
 │   └── Revoke.sql
-├── seguridad
+├── seguridad/
 │   └── Grants.sql
 
 
