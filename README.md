@@ -1,6 +1,6 @@
 # Proyecto_Databricks_SmartData
 Repositorio que contiene el proyecto de Ingenieria de Datos con Databricks de SmartData
 
-![Imagen no disponible](Arquitectura_proyecto.png)
+#![Imagen no disponible](Arquitectura_proyecto.png)
 
-<img src="Arquitectura_proyecto.png" alt="Logo" width="500"/>
+<img src="Arquitectura_proyecto.png" alt="Logo" width="1000"/>
